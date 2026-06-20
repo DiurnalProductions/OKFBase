@@ -1,0 +1,97 @@
+{
+  "catalog_version": "0.1",
+  "repository": "https://github.com/DiurnalProductions/OKFBase",
+  "packs": [
+    {
+      "id": "css-okf",
+      "name": "CSS Knowledge Pack",
+      "description": "OKF knowledge base for modern CSS including layout, cascade, and responsive design",
+      "version": "0.1",
+      "tags": ["css", "frontend", "styling", "web", "layout"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "css-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "html-okf",
+      "name": "HTML Knowledge Pack",
+      "description": "OKF knowledge base for HTML (semantic document structure, DOM model, accessibility, forms, metadata)",
+      "version": "0.1",
+      "tags": ["html", "web", "dom", "semantic", "frontend"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "html-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "javascript-okf",
+      "name": "JavaScript Knowledge Pack",
+      "description": "OKF knowledge base for modern JavaScript (ES6+, runtime model, async, modules)",
+      "version": "0.1",
+      "tags": ["javascript", "js", "es6", "async", "web", "programming"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "javascript-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "nextjs-okf",
+      "name": "Next.js Knowledge Pack",
+      "description": "OKF knowledge base for Next.js (App Router, SSR, server components)",
+      "version": "0.1",
+      "tags": ["nextjs", "react", "fullstack", "ssr", "frontend", "node"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "nextjs-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "react-native-okf",
+      "name": "React Native Knowledge Pack",
+      "description": "OKF knowledge base for React Native development",
+      "version": "0.1",
+      "tags": ["react-native", "mobile", "javascript", "ios", "android"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "react-native-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "react-okf",
+      "name": "React Knowledge Pack",
+      "description": "OKF knowledge base for React fundamentals",
+      "version": "0.1",
+      "tags": ["react", "frontend", "javascript", "ui"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "react-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "typescript-okf",
+      "name": "TypeScript Knowledge Pack",
+      "description": "OKF knowledge base for TypeScript (type system, inference, generics, structural typing, and JS interop)",
+      "version": "0.1",
+      "tags": ["typescript", "ts", "javascript", "typing", "programming"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "typescript-okf",
+        "ref": "main"
+      }
+    }
+  ]
+}
