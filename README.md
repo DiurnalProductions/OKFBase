@@ -1,6 +1,6 @@
 # OKFBase
 
-Public catalog of [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) (Open Knowledge Format) knowledge packs for [Boone](https://github.com/DiurnalProductions/Boone), the mobile knowledge-base viewer.
+Public catalog of [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) (Open Knowledge Format) knowledge packs for [Boone-CLI](https://github.com/DiurnalProductions/Boone-cli), the command-line knowledge-base viewer.
 
 This repository does not host knowledge content. It publishes `catalog.json` — a registry of links to standalone OKF pack repositories that Boone downloads and installs.
 
