@@ -3,6 +3,19 @@
   "repository": "https://github.com/DiurnalProductions/OKFBase",
   "packs": [
     {
+      "id": "compose-okf",
+      "name": "Jetpack Compose Knowledge Pack",
+      "description": "OKF knowledge base for Jetpack Compose (declarative UI, state management, recomposition, layout, side effects, and architecture)",
+      "version": "0.1",
+      "tags": ["compose", "android", "ui", "declarative", "kotlin"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "compose-okf",
+        "ref": "main"
+      }
+    },
+    {
       "id": "css-okf",
       "name": "CSS Knowledge Pack",
       "description": "OKF knowledge base for modern CSS including layout, cascade, and responsive design",
@@ -12,6 +25,32 @@
         "type": "github",
         "owner": "DiurnalProductions",
         "repo": "css-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "csharp-okf",
+      "name": "C# Knowledge Pack",
+      "description": "OKF knowledge base for C# and .NET (language fundamentals, runtime behavior, async, generics, and ecosystem)",
+      "version": "0.1",
+      "tags": ["csharp", "dotnet", "programming", "async", "oop"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "csharp-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "flutter-okf",
+      "name": "Flutter Knowledge Pack",
+      "description": "OKF knowledge base for Flutter (widget tree, rendering model, state management, layout, navigation, and performance)",
+      "version": "0.1",
+      "tags": ["flutter", "dart", "ui", "cross-platform", "widgets"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "flutter-okf",
         "ref": "main"
       }
     },
@@ -38,6 +77,32 @@
         "type": "github",
         "owner": "DiurnalProductions",
         "repo": "javascript-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "kotlin-mp-okf",
+      "name": "Kotlin Multiplatform Knowledge Pack",
+      "description": "OKF knowledge base for Kotlin Multiplatform (shared code, expect/actual, platform abstraction, architecture, and concurrency)",
+      "version": "0.1",
+      "tags": ["kotlin", "multiplatform", "kmp", "shared-code", "architecture"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "kotlin-mp-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "kotlin-okf",
+      "name": "Kotlin Knowledge Pack",
+      "description": "OKF knowledge base for Kotlin (language fundamentals, type system, coroutines, collections, and ecosystem)",
+      "version": "0.1",
+      "tags": ["kotlin", "programming", "coroutines", "jvm", "functional"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "kotlin-okf",
         "ref": "main"
       }
     },
@@ -90,6 +155,45 @@
         "type": "github",
         "owner": "DiurnalProductions",
         "repo": "react-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "swift-okf",
+      "name": "Swift Knowledge Pack",
+      "description": "OKF knowledge base for Swift (language fundamentals, value semantics, protocols, concurrency, generics, and ecosystem)",
+      "version": "0.1",
+      "tags": ["swift", "programming", "ios", "concurrency", "protocols"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "swift-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "swiftdata-okf",
+      "name": "SwiftData Knowledge Pack",
+      "description": "OKF knowledge base for SwiftData (models, relationships, queries, persistence, migrations, and architecture)",
+      "version": "0.1",
+      "tags": ["swiftdata", "ios", "database", "persistence", "swiftui"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "swiftdata-okf",
+        "ref": "main"
+      }
+    },
+    {
+      "id": "swiftui-okf",
+      "name": "SwiftUI Knowledge Pack",
+      "description": "OKF knowledge base for SwiftUI (declarative UI, state management, layout, navigation, and architecture)",
+      "version": "0.1",
+      "tags": ["swiftui", "ios", "ui", "apple", "declarative"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "swiftui-okf",
         "ref": "main"
       }
     },
