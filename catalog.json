@@ -55,6 +55,19 @@
       }
     },
     {
+      "id": "python-okf",
+      "name": "Python Knowledge Pack",
+      "description": "OKF knowledge base for Python 3 (runtime model, data model, async, typing, modules, ecosystem)",
+      "version": "0.1",
+      "tags": ["python", "programming", "async", "oop", "data-model", "scripting"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "python-okf",
+        "ref": "main"
+      }
+    },
+    {
       "id": "react-native-okf",
       "name": "React Native Knowledge Pack",
       "description": "OKF knowledge base for React Native development",
