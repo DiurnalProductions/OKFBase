@@ -3,6 +3,19 @@
   "repository": "https://github.com/DiurnalProductions/OKFBase",
   "packs": [
     {
+      "id": "angular-okf",
+      "name": "AngularJS (1.x) Knowledge Pack",
+      "description": "OKF knowledge base for AngularJS 1.x (digest cycle, scopes, directives, dependency injection, services, controllers)",
+      "version": "0.1",
+      "tags": ["angular", "javascript", "spa", "legacy", "frontend"],
+      "source": {
+        "type": "github",
+        "owner": "DiurnalProductions",
+        "repo": "angular-okf",
+        "ref": "main"
+      }
+    },
+    {
       "id": "compose-okf",
       "name": "Jetpack Compose Knowledge Pack",
       "description": "OKF knowledge base for Jetpack Compose (declarative UI, state management, recomposition, layout, side effects, and architecture)",
